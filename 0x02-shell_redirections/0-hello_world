@@ -1,2 +1,3 @@
 #!/bink/bash
 echo 'Hello, World' > 0-hello_world | cat 0-hello_world
+/
